@@ -49,6 +49,6 @@ pip install -r requirements.txt
 ### **CIFAR10**: 
 * **Cnn**. This project using Deep CNN.
 
-** Normal / Encoder/ Decoder
+* Normal / Encoder/ Decoder
 
 ![!CIFAR10](https://github.com/gslmota/Autoencoders_with_python/blob/main/img/enc.png)
