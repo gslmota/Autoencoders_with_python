@@ -41,12 +41,14 @@ pip install -r requirements.txt
 ### **MNIST**: 
 * **Cnn**. This project using simple NN and CNN.
 
-* Epochs 0 / 40 / 100
+* Normal / Encoder/ Decoder
+
 ![!MNIST](https://github.com/gslmota/Autoencoders_with_python/blob/main/img/enm.png)
 
 
 ### **CIFAR10**: 
 * **Cnn**. This project using Deep CNN.
 
-* Epochs 0 / 40 / 100
+** Normal / Encoder/ Decoder
+
 ![!CIFAR10](https://github.com/gslmota/Autoencoders_with_python/blob/main/img/enc.png)
