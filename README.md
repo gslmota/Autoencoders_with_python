@@ -42,11 +42,11 @@ pip install -r requirements.txt
 * **Cnn**. This project using simple NN and CNN.
 
 * Epochs 0 / 40 / 100
-![!MNIST](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/enm.png)
+![!MNIST](https://github.com/gslmota/Autoencoders_with_python/blob/main/img/enm.png)
 
 
 ### **CIFAR10**: 
 * **Cnn**. This project using Deep CNN.
 
 * Epochs 0 / 40 / 100
-![!CIFAR10](https://github.com/gslmota/GANS_with_pytorch/blob/main/img/enc.png)
+![!CIFAR10](https://github.com/gslmota/Autoencoders_with_python/blob/main/img/enc.png)
