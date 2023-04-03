@@ -52,3 +52,6 @@ pip install -r requirements.txt
 * Normal / Encoder/ Decoder
 
 ![!CIFAR10](https://github.com/gslmota/Autoencoders_with_python/blob/main/img/enc.png)
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
